@@ -7,7 +7,7 @@ You can read verses, understand translations and commentaries, and enjoy a smoot
 
 Verse Exploration – Browse chapters and verses of the Bhagavad Gita.
 Translations & Commentaries – Available in Hindi and English.
-Theme Toggle – Switch between light 🌞 and dark 🌙 modes.
+Theme Toggle – Switch between light and dark modes.
 
 🛠 Tech Stack
 
