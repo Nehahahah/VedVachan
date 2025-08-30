@@ -13,7 +13,7 @@ Theme Toggle – Switch between light and dark modes.
 
 Frontend: React, TailwindCSS, React-toastify, styled-components, AOS
 Backend: Node.js, Express, MongoDB
-Deployment: Vercel
+
 
 
 
