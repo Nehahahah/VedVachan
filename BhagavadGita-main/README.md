@@ -34,12 +34,6 @@ VedVachan is a modern, clean, and immersive web platform to explore the teaching
 
 ---
 
-## 🖼 Preview
-
-![VedVachan Screenshot](https://your-image-link.com/vedvachan-preview.png)
-
----
-
 ## 🙏 Inspiration
 
 Inspired by the eternal teachings of the Bhagavad Gita, *VedVachan* aims to simplify spiritual learning in the modern digital world — for students, seekers, and all curious minds.
