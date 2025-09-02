@@ -50,4 +50,4 @@ Feel free to reach out for feedback, collaboration, or suggestions!
 
 ---
 
-> “When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.” — Bhagavad Gita 6.19
+> “When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.” — Bhagavad Gita
